@@ -1,5 +1,8 @@
+[![MasterHead](https://www.deviantart.com/pixeljeff/art/Coding-990517671)](https://linkedin.com/in/https://www.linkedin.com/in/subhajit-roy-6b2673277/)
+
 <h1 align="center">Hi 👋, I'm Subhajit Roy</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a615ccee1fede08a3322b260a6c9b09fa7c9d76bb410469650b284ebebcaef57/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajitroy03&label=Profile%20views&color=0e75b6&style=flat" alt="subhajitroy03" /> </p>
 
@@ -23,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajitroy03&show_icons=true&locale=en" alt="subhajitroy03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajitroy03&" alt="subhajitroy03" /></p>
-
