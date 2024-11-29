@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Pain-O-Relief**
 
-- 🌱 I’m currently learning **MongoDB, Flask,Django and Java script**
+- 🌱 I’m currently learning **MongoDB, Flask,Node JS and Java script**
 
 - 📫 How to reach me **roysubhajit2003@gmail.com**
 
