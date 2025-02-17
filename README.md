@@ -28,9 +28,6 @@
 <a href="https://www.leetcode.com/subhajit_roy03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhajit_roy03" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajitroy03&show_icons=true&locale=en&layout=compact" alt="subhajitroy03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajitroy03&show_icons=true&locale=en" alt="subhajitroy03" /></p>
