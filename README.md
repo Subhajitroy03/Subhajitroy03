@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Pain-O-Relief**
 
-- 🌱 I’m currently learning **NodeJS, Java and ReactJS**
+- 🌱 I’m currently learning **NodeJS and Java **
 
 - 📫 How to reach me **roysubhajit2003@gmail.com**
 
