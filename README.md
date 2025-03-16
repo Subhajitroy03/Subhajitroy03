@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **roysubhajit2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LDUXioXcTHqOLc67xTp8hqxoccqHHC0_/view?usp=drive_link]([https://drive.google.com/file/d/1DruG0rY-BXSr01w6AaDkouzzry4KatBJ/view?usp=drive_link](https://drive.google.com/file/d/1LDUXioXcTHqOLc67xTp8hqxoccqHHC0_/view?usp=drive_link))
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LDUXioXcTHqOLc67xTp8hqxoccqHHC0_/view?usp=drive_link]([https://drive.google.com/file/d/1DruG0rY-BXSr01w6AaDkouzzry4KatBJ/view?usp=drive_link]([https://drive.google.com/file/d/1LDUXioXcTHqOLc67xTp8hqxoccqHHC0_/view?usp=drive_link](https://drive.google.com/file/d/1LDUXioXcTHqOLc67xTp8hqxoccqHHC0_/view?usp=drive_link)))
 
 - ⚡ Fun fact **I juggle between DSA prep, web dev projects, and teaching Python —all while watching One Piece! 🏴‍☠️**
 
