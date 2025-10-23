@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhajitroy03" alt="subhajitroy03" /></a> </p>
 
-- 🔭 I’m currently working on **Pain-O-Relief**
+- 🔭 I’m currently working on **Smart Attend System**
 
-- 🌱 I’m currently learning **NodeJS and Java **
+- 🌱 I’m currently learning **Kotlin and App dev**
 
 - 📫 How to reach me **roysubhajit2003@gmail.com**
 
