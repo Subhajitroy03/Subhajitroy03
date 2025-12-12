@@ -1,6 +1,6 @@
 [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)](https://linkedin.com/in/https://www.linkedin.com/in/subhajit-roy-6b2673277/)
 # 💫 About Me:
-Myself Subhajit Roy ...
+Myself Subhajit Roy <br>
 3rd-year B.Tech CSE student at Academy of Technology<br>Currently working on a Smart Attendance System<br>CSE Tech Lead at IEI Student Chapter<br>Active GDG AOT techie<br>Ex-intern at Resourcio Pvt. Ltd.<br>Learning React, Next.js, and Kotlin<br>Strong interest in DSA, OS, and system-level concepts<br>Develops across both Linux and Windows environments
 
 
