@@ -45,8 +45,13 @@ I’m Subhajit Roy
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Subhajitroy03&theme=highcontrast&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitroy03&theme=highcontrast&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Subhajitroy03&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Subhajitroy03&theme=highcontrast&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhajitroy03&theme=highcontrast&layout=compact)
+
 
 ---
 
