@@ -5,6 +5,7 @@ I’m Subhajit Roy
 3rd-year B.Tech CSE student at Academy of Technology  
 
 - Currently working on a **Smart Attendance System**
+- Full Stack Developer at Indomitech Group
 - **CSE Tech Lead** at **IEI Student Chapter**
 - Active **GDG AOT techie**
 - **Ex-intern** at **Resourcio Pvt. Ltd.**
