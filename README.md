@@ -2,7 +2,7 @@
 
 # 💫 About Me
 I’m Subhajit Roy  
-3rd-year B.Tech CSE student at Academy of Technology  
+3rd-year B.Tech CSE student at Academy of Technology (AOT)
 
 - Currently working on a **Smart Attendance System**
 - Full Stack Developer at Indomitech Group
